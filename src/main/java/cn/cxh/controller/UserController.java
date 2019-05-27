@@ -398,7 +398,7 @@ public class UserController extends BaseController {
     }
 
     public String xj(){
-        return "徐江";
+        return "徐江的更改";
     }
 
     public  String gj(){
